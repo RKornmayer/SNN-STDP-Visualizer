@@ -1,0 +1,39 @@
+# Version control
+.git/
+.gitignore
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vs/
+.vscode/
+.idea/
+*.swp
+*.user
+
+# Build directories and artifacts
+build/
+out/
+bin/
+lib/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+.ninja_*
+
+# Package managers
+vcpkg_installed/
+.vcpkg/
+conanfile.txt
+.conan/
+
+# Testing and coverage
+Testing/
+*.log
