@@ -1,6 +1,6 @@
 ﻿# SNN-STDP-Visualizer
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Build Status](https://github.com/RKornmayer/SNN-STDP-Visualizer/actions/workflows/ci.yml/badge.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20(Docker)-blue)
 ![C++](https://img.shields.io/badge/C++-17-purple)
 
