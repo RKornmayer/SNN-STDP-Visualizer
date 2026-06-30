@@ -9,7 +9,7 @@ A lightweight C++ framework for simulating and visualizing Spiking Neural Networ
 The application simulates a configurable network of spiking neurons (defaulting to a 5x5 grid) connected in a feed-forward architecture. Users can interact with the network by injecting external stimuli (holding keys 1 through 5) and observe how signal pathways adapt, strengthen and prune themselves dynamically.
 
 ![SNN Demo](docs/demo.gif)
-*(Placeholder: A short GIF demonstrating the real-time strengthening of logical pathways when injecting manual spikes.)*
+*(Real-time visualization of the 5x5 network. Manually injecting spikes into the input layer triggers feed-forward propagation. Notice how active pathways dynamically strengthen due to STDP.)*
 
 ## 🧠 Scientific Background & Core Mechanics
 
