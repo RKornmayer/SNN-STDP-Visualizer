@@ -62,7 +62,8 @@ cd SNN-STDP-Visualizer
 **Create the build directory:**
 
 ```bash
-mkdir build && cd build
+mkdir build
+cd build
 ```
 
 **Configure the project with CMake:**
